@@ -1,0 +1,1 @@
+688297970478.dkr.ecr.us-east-1.amazonaws.com/clothing-classification
